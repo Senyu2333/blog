@@ -36,15 +36,10 @@ export default hopeTheme({
       Email: "2024211802@stu.cqupt.com",
       GitHub: "https://github.com/Senyu2333",
       Gmail: "charlesa123cn@gmail.com",
-      QQ: "1243669851@qq.com",
       Qzone: "https://user.qzone.qq.com/1243669851",
       Steam: "https://steamcommunity.com/profiles/76561199042993067/",
       Weibo: "https://weibo.com/u/7933608886",
       Zhihu: "https://www.zhihu.com/people/senyu-75-54",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
     },
   },
 
