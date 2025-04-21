@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "森雨Senyu",
     url: "https://mister-hope.com",
   },
 
@@ -24,13 +24,13 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "谢谢你的观看",
   displayFooter: true,
 
   // 博客相关
   blog: {
     description: "一个前端开发者",
-    intro: "/intro.html",
+    intro: "https://senyu2333.github.io/blog/posts/%E5%BF%83%E8%AF%AD/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D.html",
     medias: {
       BiliBili: "https://space.bilibili.com/1242280607",
       Email: "2024211802@stu.cqupt.com",
